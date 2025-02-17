@@ -6,5 +6,6 @@ public class joidsja {
         System.out.println("Trogdor, the Burninator, burninates all the thatched-roof cottages.");
         System.out.println("Catboy Extermination Time");
         System.out.println("Ok then");
+        System.out.println("This is not a metaphor");
     }
 }
