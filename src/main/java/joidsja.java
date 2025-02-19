@@ -5,7 +5,7 @@ public class joidsja {
         System.out.println("Cacame Khuzdul, Elf King of the Dwarves, bashes your face in.");
         System.out.println("Trogdor, the Burninator, burninates all the thatched-roof cottages.");
 
-        System.out.println("Dwarf fortress suckjs");
+        System.out.println("bskdjfbkswebkerfbvksjbrvkusnrfvkjsnvkjbs");
 
     }
 }
